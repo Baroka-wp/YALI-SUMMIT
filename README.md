@@ -1,115 +1,80 @@
-# Application Collaboration Artistes Tatoueurs et Studios
+# YALI ALUMNI SUMMIT 2025-BENIN
 
-## Description du Projet
-Cette application vise à faciliter la collaboration entre artistes tatoueurs et studios de tatouage à l’international. Elle résout les problèmes de fiabilité et renforce la confiance entre utilisateurs grâce à un système innovant et des fonctionnalités personnalisées.
+## HERO SECTION (En haut de page)
 
----
+### Logo YALI Summit 2025
 
-## Objectifs
-1. Résoudre les problèmes liés à la fiabilité des collaborations.
-2. Faciliter la recherche de partenaires pertinents.
-3. Protéger les utilisateurs contre les messages non sollicités.
+**Titre principal**: YALI ALUMNI SUMMIT 2025-BENIN
 
----
+**Sous-titre**: Inspirer l'Afrique de Demain : Leadership inclusif, Paix, Innovation et Technologie pour une Croissance Durable
 
-## Fonctionnalités Principales
+**Dates**: 9-11 Avril 2025
 
-### Profil Utilisateur
-- Création de profils dédiés pour artistes tatoueurs et studios.
-- Informations clés : portfolio, localisation, disponibilités, description, etc.
+**Lieu**: Cotonou, Bénin
 
-### Système de Notation et Commentaires
-- Les collaborations permettent à chaque partie de laisser un avis (likes et commentaires).
-- Un historique des interactions renforce la transparence et la crédibilité.
+**Call-to-Action (CTA)**: Bouton "S'inscrire maintenant"
 
-### Système de Matching (Type Tinder)
-- Connexion établie uniquement si les deux parties montrent un intérêt réciproque.
-- Protège les utilisateurs des messages excessifs et garantit des échanges de qualité.
-
-### Recherche Avancée
-- Filtres : style de tatouage, localisation, disponibilités, mots-clés.
+**Compteur à rebours jusqu'à l'événement**
 
 ---
 
-## Modèle Économique
+## BREF APERÇU (Section courte sous le hero)
 
-### Version Gratuite
-- Consultation partielle des profils.
-- Nombre limité de matchs par mois.
-- Accès restreint aux messages directs.
+### Chiffres clés en 4 colonnes
 
-### Abonnement Premium
-- Ajout de photos supplémentaires au portfolio.
-- Envoi de messages directs à plus d’utilisateurs.
-- Mise en avant des profils pour augmenter la visibilité.
-- Accès illimité à toutes les fonctionnalités.
+- **300+ Participants**
+- **40 Champions**
+- **3 Jours d'événement**
+- **7 Panels thématiques**
 
 ---
 
-## Sécurité et Fiabilité
-- Vérification des profils pour garantir leur authenticité.
-- Historique des collaborations accessible pour renforcer la confiance.
+## À PROPOS DE L'ÉVÉNEMENT
+
+### Description concise de l'événement
+
+Le YALI Alumni Summit 2025 est une rencontre unique qui réunit les anciens participants du programme YALI et d'autres leaders africains pour discuter des questions d’importance cruciale pour le développement durable du continent.
+
+### Importance et impact attendu
+
+Cet événement vise à inspirer et à équiper les participants avec des compétences, des réseaux et des solutions innovantes pour relever les défis locaux et globaux.
+
+### Public cible
+
+Jeunes leaders, entrepreneurs, universitaires, et professionnels engagés dans des initiatives de transformation positive.
+
+### Vidéo teaser (si disponible)
 
 ---
 
-## Interface Utilisateur
-- Design épuré et intuitif.
-- Mises en avant inspirantes des portfolios et des styles.
+## PROGRAMME PHARE (Visual Timeline)
+
+### Jour 1: Points clés
+- Cérémonie d'ouverture
+- Discours inspirants
+- Panel: Leadership inclusif
+
+### Jour 2: Points clés
+- Ateliers pratiques
+- Discussion thématique sur l'IA
+- Soirée culturelle
+
+### Jour 3: Points clés
+- Marche sportive et don de sang
+- Panels finaux
+- Gala de clôture
+
+**CTA**: "Voir le programme complet"
 
 ---
 
-## Avantages pour les Utilisateurs
-- **Artistes Tatoueurs** : Trouver des studios fiables pour des collaborations.
-- **Studios de Tatouage** : Identifier des artistes pour des résidences ou postes fixes.
+## THÉMATIQUES PRINCIPALES (Grid avec icônes)
 
----
-
-# Documentation Technique
-
-## Getting Started
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-### Installation
-
-First, clone the repository and install dependencies:
-```bash
-npm install
-```
-
-### Démarrage
-Run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
----
-
-## Fonts and Optimization
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
----
-
-## Learn More
-To learn more about Next.js, take a look at the following resources:
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
----
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Leadership Inclusif
+- Innovation Numérique
+- Intelligence Artificielle
+- Sécurité et Paix
+- Environnement
+- STEM
+- Entrepreneuriat
 
