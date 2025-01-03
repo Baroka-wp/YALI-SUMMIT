@@ -25,8 +25,14 @@ export const HeroSection = () => {
   const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
 
   return (
-    <div className="relative bg-blue-600 text-white py-24">
-      <div className="max-w-7xl mx-auto px-4 text-center">
+    <div
+      className="relative bg-cover bg-center text-white py-24"
+      style={{ backgroundImage: 'url(/images/bg.jpg)' }}
+    >
+      {/* Overlay */}
+      <div className="absolute inset-0 bg-black opacity-50"></div>
+
+      <div className="relative z-10 max-w-7xl mx-auto px-4 text-center">
 
         {/* Title and Subtitle */}
         <h1 className="text-5xl font-bold mb-6">YALI ALUMNI SUMMIT 2025 - BENIN</h1>

@@ -1,18 +1,37 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
+  const [isScrolled, setIsScrolled] = useState(false)
+
+  // Détecte si l'utilisateur a fait défiler la page
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 50) {
+        setIsScrolled(true)
+      } else {
+        setIsScrolled(false)
+      }
+    }
+
+    window.addEventListener('scroll', handleScroll)
+    return () => window.removeEventListener('scroll', handleScroll)
+  }, [])
 
   return (
-    <nav className="bg-white shadow-lg">
+    <nav className={`bg-white shadow-lg ${isScrolled ? 'fixed top-0 left-0 w-full z-10 transition-shadow duration-300 shadow-lg' : 'relative'}`}>
       <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 py-4">
         <div className="flex justify-between items-center">
           {/* Logo Section */}
           <div className="flex items-center space-x-4">
             <Link href="/" className="text-2xl font-semibold text-blue-600 hover:text-blue-700 transition duration-300">
-              YALI Summit
+              <img
+                src="/images/logo.png"  // Référence de l'image dans le dossier public
+                alt="YALI Summit Logo"
+                className="h-10"  // Ajustez la taille du logo selon votre préférence
+              />
             </Link>
           </div>
 

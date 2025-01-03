@@ -16,7 +16,6 @@ export const BriefOverview = () => {
   return (
     <section className={`py-16 bg-gray-100 transition-all duration-500 ${animClass}`}>
       <div className="max-w-7xl mx-auto px-4 text-center">
-        <h2 className="text-3xl font-bold mb-8">Bref Aperçu</h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Chiffres clés */}
